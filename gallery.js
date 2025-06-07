@@ -48,7 +48,7 @@ window.onload = () => {
       content: {
         title: "건표 ♥ 지선의 모바일 청첩장",
         description: "2025년 7월 5일 토요일♡",
-        imageUrl: "https://i.imgur.com/Zro0Mox.png",
+        imageUrl: "https://i.imgur.com/LvAvTHE.png",
         imageWidth: 1200,
         imageHeight: 630,
         link: {
